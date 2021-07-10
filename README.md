@@ -31,3 +31,5 @@
 
 ## Análise Exploratória de Dados com Python, Pandas e Numpy
 ### https://www.amazon.com.br/dp/B098DF8BZ5
+
+#### https://www.amazon.com.br/dp/B098DF8BZ5
